@@ -40,6 +40,10 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
+### Output on Terminal
+
+![Terminal](/Terminal.png)
+
 ## Election-Audit Summary
 
 The script used in this process is very flexible, and can be used for other elections with small modifications:
