@@ -50,5 +50,5 @@ The script used in this process is very flexible, and can be used for other elec
 
 - By changing the resource CSV file by another with the same format, we can have this analysis done for any other state.
 - Also by changing the resource CSV file, we can run this analysis for any other election in following years
-- With small modifications on the script, it is also vety easy to produce how many vote each candidate received per county and the correponding percentage.
+- With small modifications on the script, it is also vety easy to produce how many votes each candidate received per county and the correponding percentage.
 
